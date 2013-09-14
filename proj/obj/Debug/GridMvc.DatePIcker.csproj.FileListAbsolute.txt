@@ -1,0 +1,5 @@
+C:\Users\buhv\Documents\GitHub\bootstrap-datepicker\proj\bin\GridMvc.DatePIcker.dll
+C:\Users\buhv\Documents\GitHub\bootstrap-datepicker\proj\bin\GridMvc.DatePIcker.pdb
+C:\Users\buhv\Documents\GitHub\bootstrap-datepicker\proj\obj\Debug\GridMvc.DatePIcker.csprojResolveAssemblyReference.cache
+C:\Users\buhv\Documents\GitHub\bootstrap-datepicker\proj\obj\Debug\GridMvc.DatePIcker.dll
+C:\Users\buhv\Documents\GitHub\bootstrap-datepicker\proj\obj\Debug\GridMvc.DatePIcker.pdb
